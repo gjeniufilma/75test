@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Monument';
+    src: url('fonts/monument.woff2') format('woff2'),
+        url('fonts/monument.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Italic';
+    src: url('fonts/monument-italic.woff2') format('woff2'),
+        url('fonts/monument-italic.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Light';
+    src: url('fonts/monument-light.woff2') format('woff2'),
+        url('fonts/monument-light.woff') format('woff');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Monument Light Italic';
+    src: url('fonts/monument-light-italic.woff2') format('woff2'),
+        url('fonts/monument-light-italic.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Black';
+    src: url('fonts/monument-black.woff2') format('woff2'),
+        url('fonts/monument-black.woff') format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument Black Italic';
+    src: url('fonts/monument-black-italic.woff2') format('woff2'),
+        url('fonts/monument-black-italic.woff') format('woff');
+    font-style: normal;
+}
+
+
